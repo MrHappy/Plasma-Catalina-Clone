@@ -33,6 +33,6 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 
 | Looks like This |
 | --- |
-| ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/02.png") |
+| ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/02.png) |
 
 
