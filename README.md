@@ -64,6 +64,16 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 
 **[Right here](https://github.com/The-Sensual-Dotfiles/macOS-Wallpapers)**
 
+## How to Install Icons, Themes, Plasma Themes... (Only USER)
+**Icons**
+
+**Aurorae**
+
+**Plasma Theme**
+
+## Other Stuff
+- Plymouth Theme: https://www.gnome-look.org/p/1311587/
+- rEFInd Theme: https://github.com/mireq/rEFInd-Catalina
 
 ## Once finished configuring, the result will be 
 | Looks like This |
