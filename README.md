@@ -21,7 +21,7 @@ You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on
 I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/latte-dock)**, as well as this **[Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu)** for you. If you are in ***ARCH LINUX you can install it with an [AUR HELPER](https://wiki.archlinux.org/index.php/AUR_helpers)***
 
 ## Plasmoids, Widgets, Applets or Extentions that you need
- <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/bsd.png" align="right" height="400px">
+ <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/bsd.png" align="right" height="300px">
 <p align="left">
  
 - **[Latte Separator](https://store.kde.org/p/1295376/)**
@@ -34,7 +34,7 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 **[Right here](https://github.com/The-Sensual-Dotfiles/macOS-Wallpapers)**
 
 
-**Once finished configuring, the result will be 
+## Once finished configuring, the result will be 
 | Looks like This |
 | --- |
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/02.png) |
