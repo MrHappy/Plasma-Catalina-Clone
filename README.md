@@ -1,4 +1,4 @@
-# macOS Catalina RICE 
+# macOS Catalina "Plasma Clone"
 For whatever reason did you get the idea to clone macOS for whatever reason? Well, feel free to use, configure and modify my "clone" as much as you want, here are some things you will need
 
 **What programs did I use in my RICE?**
