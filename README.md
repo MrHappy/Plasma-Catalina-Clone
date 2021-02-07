@@ -6,10 +6,18 @@ For whatever reason did you get the idea to clone macOS for whatever reason? Wel
 | --- | --- |
 | Terminal | Konsole |
 | File Manager | Dolphin |
+| Shell | Bash |
+| Shell | Zsh |
 | Browser | Chromium |
+| Bash Themes | [Oh-my-bash](https://ohmybash.nntoan.com/) | 
+| Zsh Themes | [Oh-my-zsh](https://ohmyz.sh/) |
 | Image Editor | [Photoshop](https://github.com/Gictorbit/photoshopCClinux) |
 | Neofetch | [This Configuration](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch) |
 
+**What theme was I using in that moment?**
+| Shell | Theme |
+| Bash | mac (Custom theme by me (FORK OF CLEAN) |
+| Zsh | Gentoo | 
 
 | Preview |
 | --- |
