@@ -31,8 +31,8 @@ You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on
 I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/latte-dock)**, as well as this **[Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu)** for you. If you are in ***ARCH LINUX you can install it with an [AUR HELPER](https://wiki.archlinux.org/index.php/AUR_helpers)***
 
 ## Plasmoids, Widgets, Applets or Extentions that you need
- <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/bsd.png" align="right" height="300px">
- <a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+ <a href="https://www.freebsd.org/"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/bsd.png" align="right" height="300px">
+
  <p align="left">
  
 - **[Latte Separator](https://store.kde.org/p/1295376/)**
