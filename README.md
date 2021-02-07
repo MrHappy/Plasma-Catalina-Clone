@@ -30,6 +30,10 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 - **[Kpple Menu](https://store.kde.org/p/1384156/)**
 - **[Launchpad Plasma](https://store.kde.org/p/1364064/)**
 
+## I want to use macOS Wallpapers, Where could I find them?
+
+**[Right here](https://github.com/The-Sensual-Dotfiles/macOS-Wallpapers)**
+
 
 
 
