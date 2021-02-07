@@ -1,6 +1,16 @@
 # macOS Catalina RICE 
 For whatever reason did you get the idea to clone macOS for whatever reason? Well, feel free to use, configure and modify my "clone" as much as you want, here are some things you will need
 
+**What programs did I use in my RICE?**
+|  Program | Name |
+| --- | --- |
+| Terminal | Konsole |
+| File Manager | Dolphin |
+| Browser | Chromium |
+| Image Editor | [Photoshop](https://github.com/Gictorbit/photoshopCClinux) |
+| Neofetch | [Configuration](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch) |
+
+
 | Preview |
 | --- |
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
