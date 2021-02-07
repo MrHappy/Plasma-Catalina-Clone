@@ -4,6 +4,7 @@
 **For whatever reason did you get the idea to clone macOS?**. Well, feel free to use, configure and modify my "clone" as much as you want, here are some things you will need
 | Welcome | 
 | --- |
+| ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/05.jpg) |
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/04.jpg) |
 
 
