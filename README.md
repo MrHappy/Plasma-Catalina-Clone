@@ -28,6 +28,10 @@
 | --- |
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
 
+**Where could I find those color Schemes?**
+
+In this link my friend: https://github.com/mbadolato/iTerm2-Color-Schemes
+
 ## Dependencies
 You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on it. As well as you also have the following to have the same configuration as me. 
 
