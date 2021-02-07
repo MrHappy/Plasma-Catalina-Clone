@@ -16,6 +16,7 @@ For whatever reason did you get the idea to clone macOS for whatever reason? Wel
 
 **What theme was I using in that moment?**
 | Shell | Theme |
+| --- | --- |
 | Bash | mac (Custom theme by me (FORK OF CLEAN) |
 | Zsh | Gentoo | 
 
