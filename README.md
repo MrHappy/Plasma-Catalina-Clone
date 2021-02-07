@@ -66,11 +66,20 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 
 ## How to Install Icons, Themes, Plasma Themes... (Only USER)
 **Icons**
-'~/.local/share/icons' 
+Copy/Move my icons to this folder
+**~/.local/share/icons/***
+
 **Aurorae**
-'~/.local/share/aurorae/'
+Copy/Move my aurorae themes to this folder
+***~/.local/share/aurorae/**
+
 **Plasma Theme**
-'~/.local/share/plasma/themes/'
+Copy/Move my plasma themes to this folder
+***~/.local/share/plasma/themes/***
+
+**Oh-my-bash**
+Copy/Move my oh-my-bash theme to this folder
+***~/.oh-my-bash/custom/themes/***
 
 ## Other Stuff
 - Plymouth Theme: https://www.gnome-look.org/p/1311587/
