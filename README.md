@@ -23,6 +23,7 @@ For whatever reason did you get the idea to clone macOS for whatever reason? Wel
 | Preview |
 | --- |
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
+| ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/04.jpg) |
 
 ## Dependencies
 You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on it. As well as you also have the following to have the same configuration as me. 
