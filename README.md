@@ -33,6 +33,8 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 
 **[Right here](https://github.com/The-Sensual-Dotfiles/macOS-Wallpapers)**
 
+
+**Once finished configuring, the result will be 
 | Looks like This |
 | --- |
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/02.png) |
