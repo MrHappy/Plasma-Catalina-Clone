@@ -1,7 +1,7 @@
 # macOS Catalina RICE 
 | Preview |
 | --- |
-| ![screenshot](https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/Bg.png) |
+| ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
 
 ## Dependencies
 | Name | Description | Why is it needed? |
