@@ -22,7 +22,7 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 
 ## Plasmoids, Widgets, Applets or Extentions that you need
 
-<img src="https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/extra-2.webp" align="left" height="400px">
+<img src="https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/extra-2.webp" align="right" height="950px">
 <p align="left">
   
 - **[Latte Separator](https://store.kde.org/p/1295376/)**
