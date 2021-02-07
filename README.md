@@ -1,5 +1,6 @@
 # macOS Catalina "Plasma Clone"
- ***An unoriginal idea***
+***An unoriginal idea***
+ 
 **For whatever reason did you get the idea to clone macOS?**. Well, feel free to use, configure and modify my "clone" as much as you want, here are some things you will need
 | Welcome | 
 | --- |
