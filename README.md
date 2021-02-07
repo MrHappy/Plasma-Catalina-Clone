@@ -4,6 +4,9 @@
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
 
 ## Dependencies
+You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on it. As well as you also have the following to have the same configuration as me. 
+
+
 | Name | Description | Why is it needed? |
 | --- | --- | --- |
 | [`Global Menu Libraries`](https://github.com/The-Sensual-Dotfiles/Libreries-Global-Menu-KDE) |  Libraries to adapt the global menu to programs and have a better experience  | Some programs do not come with these settings by default  |
