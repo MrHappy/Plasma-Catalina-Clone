@@ -90,4 +90,14 @@ Copy/Move my oh-my-bash theme to this folder
 | --- |
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/02.png) |
 
+<div align="center">
+    <h3>
+<a href="https://github.com/victor-bayas/simplyarch"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/template.png" align="center" height="100px"> </a>
+</h3>
+ </div>
+</a
+
+- Group: https://www.facebook.com/groups/xunix.welcome.to.the.heaven
+- Telegram Group: https://t.me/XUnixCommunity
+
 
