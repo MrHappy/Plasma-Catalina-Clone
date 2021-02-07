@@ -12,8 +12,8 @@ You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on
 | Name | Description | Why is it needed? |
 | --- | --- | --- |
 | [`Global Menu Libraries`](https://github.com/The-Sensual-Dotfiles/Libreries-Global-Menu-KDE) |  Libraries to adapt the global menu to programs and have a better experience  | Some programs do not come with these settings by default  |
-| [`Window AppMenu Applet`](https://github.com/psifidotos/applet-window-appmenu) |My Latte Dock Layout uses it. 
-| [`Applet Window Title`](https://github.com/psifidotos/applet-window-title) |My Latte Dock Layout uses it. 
+| [`Window AppMenu Applet`](https://github.com/psifidotos/applet-window-appmenu)| https://github.com/psifidotos/applet-window-appmenu |My Latte Dock Layout uses it. 
+| [`Applet Window Title`](https://github.com/psifidotos/applet-window-title)| This is a Plasma 5 applet that shows the current window title and icon in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels. |My Latte Dock Layout uses it. 
 | [`Latte Dock`](https://github.com/KDE/latte-dock) | Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids. | My "RICE" is all latte dock, specifically this version |
 | [`SanFrancisco Fonts`](https://github.com/The-Sensual-Dotfiles/macOS-Fonts) | SF Pro. This sans-serif typeface is the system font for iOS, macOS, and tvOS | To make it look more like the system |
 | [`Kvantum`](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md) | Kvantum is an SVG-based theme engine for Qt, tuned to KDE and LXQt, with an emphasis on elegance, usability and practicality. | Window Decoration  |
