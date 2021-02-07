@@ -1,4 +1,6 @@
 # macOS Catalina RICE 
+For whatever reason did you get the idea to clone macOS for whatever reason? Well, feel free to use, configure and modify my "clone" as much as you want, here are some things you will need
+
 | Preview |
 | --- |
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
