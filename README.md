@@ -66,10 +66,11 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 
 ## How to Install Icons, Themes, Plasma Themes... (Only USER)
 **Icons**
-
+'~/.local/share/icons' 
 **Aurorae**
-
+'~/.local/share/aurorae/'
 **Plasma Theme**
+'~/.local/share/plasma/themes/'
 
 ## Other Stuff
 - Plymouth Theme: https://www.gnome-look.org/p/1311587/
