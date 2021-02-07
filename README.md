@@ -24,6 +24,7 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 
 <img src="https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/extra-2.webp" align="left" height="400px">
 <p align="left">
+  
 - **[Latte Separator](https://store.kde.org/p/1295376/)**
 - **[Latte Spacer](https://store.kde.org/p/1287102/)**
 - **[Kpple Menu](https://store.kde.org/p/1384156/)**
