@@ -21,6 +21,9 @@ You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on
 I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/latte-dock)**, as well as this **[Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu)** for you. If you are in ***ARCH LINUX you can install it with an [AUR HELPER](https://wiki.archlinux.org/index.php/AUR_helpers)***
 
 ## Plasmoids, Widgets, Applets or Extentions that you need
+
+<img src="https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/extra-2.webp" align="left" height="400px">
+<p align="left">
 - **[Latte Separator](https://store.kde.org/p/1295376/)**
 - **[Latte Spacer](https://store.kde.org/p/1287102/)**
 - **[Kpple Menu](https://store.kde.org/p/1384156/)**
