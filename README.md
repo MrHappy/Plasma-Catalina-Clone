@@ -1,4 +1,4 @@
-# macOS Catalina "Plasma Clone"
+# Plasma, macOS Clone
 ***An unoriginal idea***
  
 **For whatever reason did you get the idea to clone macOS?**. Well, feel free to use, configure and modify my "clone" as much as you want, here are some things you will need
