@@ -8,7 +8,7 @@ For whatever reason did you get the idea to clone macOS for whatever reason? Wel
 | File Manager | Dolphin |
 | Browser | Chromium |
 | Image Editor | [Photoshop](https://github.com/Gictorbit/photoshopCClinux) |
-| Neofetch | [Configuration](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch) |
+| Neofetch | [This Configuration](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch) |
 
 
 | Preview |
