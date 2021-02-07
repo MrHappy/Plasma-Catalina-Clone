@@ -18,7 +18,7 @@ You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on
 | [`SanFrancisco Fonts`](https://github.com/The-Sensual-Dotfiles/macOS-Fonts) | SF Pro. This sans-serif typeface is the system font for iOS, macOS, and tvOS | To make it look more like the system |
 | [`Kvantum`](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md) | Kvantum is an SVG-based theme engine for Qt, tuned to KDE and LXQt, with an emphasis on elegance, usability and practicality. | Window Decoration  |
 
-I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/latte-dock)**, as well as this **[Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu)** for you. Since they have good features that can help you and have more configuration, any of these 2 versions is compiled, so if you are in ***ARCH LINUX you can install it with an [AUR HELPER](https://wiki.archlinux.org/index.php/AUR_helpers)***, and in case you don't have that distro you will have to compile it, so I'll leave you my configuration for the flags for when I had to compile the program 
+I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/latte-dock)**, as well as this **[Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu)** for you. If you are in ***ARCH LINUX you can install it with an [AUR HELPER](https://wiki.archlinux.org/index.php/AUR_helpers)***
 
 ## Plasmoids, Widgets, Applets or Extentions that you need
 - **[Latte Separator]()**
