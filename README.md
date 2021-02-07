@@ -1,7 +1,9 @@
 # macOS Catalina RICE 
+| Preview |
+| --- |
+| ![screenshot](https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/Bg.png) |
 
 ## Dependencies
-
 | Name | Description | Why is it needed? |
 | --- | --- | --- |
 | [`Global Menu Libraries`](https://github.com/The-Sensual-Dotfiles/Libreries-Global-Menu-KDE) |  Libraries to adapt the global menu to programs and have a better experience  | Some programs do not come with these settings by default  |
